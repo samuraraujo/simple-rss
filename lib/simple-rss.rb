@@ -29,7 +29,7 @@ class SimpleRSS
     pubDate published updated expirationDate modified dc:date
     category guid
     trackback:ping trackback:about
-    dc:creator dc:title dc:subject dc:rights dc:publisher
+    dc:creator dc:title dc:subject dc:rights dc:publisher dc:keyword dc:language
     feedburner:origLink
     media:content#url media:content#type media:content#height media:content#width media:content#duration
     media:title media:thumbnail#url media:thumbnail#height media:thumbnail#width
